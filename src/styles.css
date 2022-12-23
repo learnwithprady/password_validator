@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+input {
+  height: 25px;
+  width: 200px;
+  font-size: 20px;
+}
+
+button {
+  background: black;
+  color: white;
+  font-size: 20px;
+}
+
+.message.error {
+  color: red;
+}
+
+.message.success {
+  color: green;
+}
+
+aside {
+  text-align: center;
+}
